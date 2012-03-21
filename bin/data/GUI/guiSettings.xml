@@ -1,0 +1,20 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>cam_distance</Name>
+    <Value>1473.684204</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>texture_space</Name>
+    <Value>9.473684</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>depth_amplify</Name>
+    <Value>1.368421</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>size_adjuster</Name>
+    <Value>1.642105</Value>
+</Widget>
